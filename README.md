@@ -121,7 +121,7 @@ ruby decode.rb
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mohamed Aden Ighe**
+👤 **Collins Akorda**
 
 - GitHub: [@firstpj](https://github.com/firstpj)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
